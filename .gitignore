@@ -8,6 +8,9 @@
 # IDEs
 .idea/
 
+# Output file
+devstats.csv
+
 # Test binary, built with `go test -c`
 *.test
 
